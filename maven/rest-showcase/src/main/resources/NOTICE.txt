@@ -1,0 +1,29 @@
+This project contains IP governed by two licenses.
+
+This project originated from the Open Source contributions to Apache Struts, which is licensed under the license(s) listed below or as may be included in the source code files. As such, all unmodified code and materials are subject to the terms of Apache Struts's original license(s).
+
+All other materials, including new files or modifications to existing files (the "Updates" or "Services") are original works of HeroDevs, Inc. and licensed under the HeroDevs NES License.
+
+These Updates/Services are provided solely for the purpose of integration evaluation, and are not intended for production use.
+
+Contact support@herodevs.com for more information.
+
+HeroDevs NES License
+Copyright © 2023-present, HeroDevs, Inc. All Rights Reserved.
+
+Access to this source code is restricted, regardless of medium, to parties authorized by a valid commercial license. Use of this source code, as well as any other associated asset, is also subject to the terms and conditions of the Never-Ending Support program. For more information, visit https://docs.herodevs.com/tos/agreements.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+--------
+Apache Struts
+Copyright 2000-2011 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+Nifty Corners (http://www.html.it/articoli/nifty/index.html).
+
+Copyright © 2023-present HeroDevs, Inc. (https://herodevs.com)
+Released under the HeroDevs NES License.
