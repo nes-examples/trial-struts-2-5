@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>NES Struts 2.5.x Apps Landing Page</title>
+    <title>Struts 2.5.33 Apps Landing Page</title>
 </head>
 <body>
 <h1>Welcome</h1>

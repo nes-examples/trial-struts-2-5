@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "org.apache.struts"
-version = "nes-v2.5.35-trial"
+version = "v2.5.33-apps"
 
 repositories {
     jcenter()
@@ -22,13 +22,6 @@ subprojects {
     }
 
     repositories {
-        maven {
-            url = uri(providers.gradleProperty("herodevs_nes_registry_url").forUseAtConfigurationTime().get())
-            credentials {
-                username = providers.gradleProperty("herodevs_nes_registry_user").forUseAtConfigurationTime().get()
-                password = providers.gradleProperty("herodevs_nes_registry_token").forUseAtConfigurationTime().get()
-            }
-        }
         mavenCentral()
     }
 

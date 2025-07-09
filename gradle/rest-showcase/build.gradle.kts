@@ -1,9 +1,9 @@
 apply(plugin = "war")
 
 dependencies {
-    implementation("org.apache.struts:struts2-rest-plugin:2.5.33-struts2-2.5.35-trial")
-    implementation("org.apache.struts:struts2-convention-plugin:2.5.33-struts2-2.5.35-trial")
-    implementation("org.apache.struts:struts2-config-browser-plugin:2.5.33-struts2-2.5.35-trial")
+    implementation("org.apache.struts:struts2-rest-plugin:2.5.33")
+    implementation("org.apache.struts:struts2-convention-plugin:2.5.33")
+    implementation("org.apache.struts:struts2-config-browser-plugin:2.5.33")
     implementation("com.fasterxml.jackson.dataformat:jackson-dataformat-xml:2.10.5")
     implementation("org.apache.logging.log4j:log4j-api:2.12.4")
     implementation("org.apache.logging.log4j:log4j-core:2.12.4")
